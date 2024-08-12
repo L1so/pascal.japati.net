@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2023-06-06-markdown-showcase.md",
+                "file": "content/2024-08-12-experience-with-ssg.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2023-06-06-markdown-showcase.md",
+                "file": "content/2024-08-12-experience-with-ssg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2023-06-06-markdown-showcase.md",
+                "file": "content/2024-08-12-experience-with-ssg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2023-06-06-markdown-showcase.md"
+                "file": "content/2024-08-12-experience-with-ssg.md"
               }
             }
           },
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d07f2d4f66600914",
+  "active": "c1a64cc83d5ff0e1",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/2023-06-06-markdown-showcase.md",
+    "content/2024-08-12-experience-with-ssg.md",
+    "content/_index.md",
     "content/2023-05-23-all-my-words.md",
     "content/2023-07-30-hello-world.md",
     "content/2016-05-19-short-article.md",
