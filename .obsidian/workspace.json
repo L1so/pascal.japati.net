@@ -11,8 +11,12 @@
             "id": "c1a64cc83d5ff0e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/2023-06-06-markdown-showcase.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/2023-06-06-markdown-showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/2023-06-06-markdown-showcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,18 +124,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "content/2023-06-06-markdown-showcase.md"
+              }
+            }
+          },
+          {
+            "id": "da23960dcf176c05",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -138,6 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1a64cc83d5ff0e1",
-  "lastOpenFiles": []
+  "active": "d07f2d4f66600914",
+  "lastOpenFiles": [
+    "content/_index.md",
+    "content/2023-06-06-markdown-showcase.md",
+    "content/2023-05-23-all-my-words.md",
+    "content/2023-07-30-hello-world.md",
+    "content/2016-05-19-short-article.md",
+    "content/2016-05-20-long-article.md",
+    "content/2023-04-15-lorem-my-friend.md"
+  ]
 }
