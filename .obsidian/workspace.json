@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2024-08-12-experience-with-ssg.md",
+                "file": "content/2024-08-16-twgok-revisited-(in-form-of-manga).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2024-08-12-experience-with-ssg.md",
+                "file": "content/2024-08-16-twgok-revisited-(in-form-of-manga).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2024-08-12-experience-with-ssg.md",
+                "file": "content/2024-08-16-twgok-revisited-(in-form-of-manga).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2024-08-12-experience-with-ssg.md"
+                "file": "content/2024-08-16-twgok-revisited-(in-form-of-manga).md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +158,16 @@
   },
   "active": "c1a64cc83d5ff0e1",
   "lastOpenFiles": [
-    "content/2023-06-06-markdown-showcase.md",
     "content/2024-08-12-experience-with-ssg.md",
+    "content/2024-08-16-twgok-revisited-(in-form-of-manga).md",
+    "content/2024-08-16-sdas-asad.md",
+    "content/2024-08-16-bim-bim.md",
+    "content/2024-08-16-paranin.md",
+    "content/Untitled 2.md",
+    "content/Untitled 1.md",
+    "content/2024-08-16-take-a-look-on-twgok-manga-edition.md",
+    "templater/Zola.md",
+    "content/2023-06-06-markdown-showcase.md",
     "content/_index.md",
     "content/2023-05-23-all-my-words.md",
     "content/2023-07-30-hello-world.md",

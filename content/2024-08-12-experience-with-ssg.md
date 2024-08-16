@@ -1,6 +1,6 @@
 ---
 title: Experience With SSG
-description: "Enter your description here."
+description: "Snippets of my thought."
 date: 2024-08-12
 taxonomies:
   tags: [daily]
