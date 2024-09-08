@@ -8,7 +8,6 @@ if (title.startsWith("Untitled")) {
 -%>
 ---
 title: <% title %>
-description: "Enter your description here."
 date: <% tp.date.now() %>
 taxonomies:
   tags: []
