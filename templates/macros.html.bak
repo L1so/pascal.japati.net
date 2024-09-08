@@ -9,7 +9,7 @@
     <section class="catalogue-line"></section>
     <p>
       {%- if page.description -%} {{ page.description | safe }} {% else -%} {{
-      page.content | striptags | truncate(length=100) | safe }} {%- endif -%}
+      page.content | striptags | truncate(length=280) | safe }} {%- endif -%}
     </p>
   </section>
 </a>
