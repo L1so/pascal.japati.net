@@ -1,2 +1,3 @@
 {% extends "base.html" %} {% block content %} {% include
 "partials/paginator.html" %} {% endblock content %}
+{{ page.summary | truncate(words=15) }}
