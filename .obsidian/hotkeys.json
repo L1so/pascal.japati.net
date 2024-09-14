@@ -6,5 +6,14 @@
       ],
       "key": "J"
     }
+  ],
+  "quickadd:choice:e4b4c53c-6f2e-42f2-b590-6a4e270c2fd6": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
   ]
 }

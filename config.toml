@@ -1,5 +1,5 @@
 base_url = "https://pascal.japati.net/"
-title = "My Daily Babbling"
+title = "Pascal Hadiyanto's Blog"
 description = "I simply write what I think, so if I stopped writing—I stopped thinking."
 
 compile_sass = true

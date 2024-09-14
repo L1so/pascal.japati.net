@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2024-09-08-public-cuda-gpg-key-does-not-appear-to-be-installed.md",
+                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 405.5
   },
   "right": {
     "id": "f8e911dcea243e42",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2024-09-08-public-cuda-gpg-key-does-not-appear-to-be-installed.md",
+                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2024-09-08-public-cuda-gpg-key-does-not-appear-to-be-installed.md",
+                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2024-09-08-public-cuda-gpg-key-does-not-appear-to-be-installed.md"
+                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md"
               }
             }
           },
@@ -147,17 +147,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "c1a64cc83d5ff0e1",
   "lastOpenFiles": [
+    "Pasted image 20240914110924.png",
+    "content/2024-09-08-public-cuda-gpg-key-does-not-appear-to-be-installed.md",
+    "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md",
+    "content/2023-06-06-markdown-showcase.md",
+    "content/2024-08-12-experience-with-ssg.md",
+    "content/2024-08-16-twgok-revisited-(in-form-of-manga).md",
+    "templater/rename-file.md",
     "templates/macros.html.bak",
     "templates/tags/list.html.bak",
     "public/fonts/libre-baskerville-latin.woff2",
@@ -168,14 +175,9 @@
     "public/fonts/libre-baskerville-700-latin-ext.woff2",
     "public/fonts/Bitter-VariableFont_wght.woff2",
     "public/fonts/Bitter-SemiBoldItalic.woff2",
-    "public/fonts/Bitter-SemiBold.woff2",
     "public/assets/favicon-32x32.png",
     "public/assets/favicon-16x16.png",
     "public/assets/apple-touch-icon.png",
-    "content/2024-08-12-experience-with-ssg.md",
-    "content/2024-09-08-public-cuda-gpg-key-does-not-appear-to-be-installed.md",
-    "content/2023-06-06-markdown-showcase.md",
-    "content/2024-08-16-twgok-revisited-(in-form-of-manga).md",
     "templater/Zola.md",
     "content/2024-08-16-sdas-asad.md",
     "content/2024-08-16-bim-bim.md",
