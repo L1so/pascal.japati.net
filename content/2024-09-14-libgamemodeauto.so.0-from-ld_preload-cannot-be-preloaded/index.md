@@ -23,6 +23,7 @@ sudo apt install ./gamemode_1.7-2+b1_amd64.deb ./gamemode-daemon_1.7-2+b1_amd64.
 ```
 
 And quickly you can see the error is gone.
-![Alt text](images/gargoyle.png)
 
-Nice !
+![Alt text](gargoyle.png)
+
+Very nice !

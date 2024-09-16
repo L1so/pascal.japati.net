@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md",
+                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md",
+                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md",
+                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded.md"
+                "file": "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded/index.md"
               }
             }
           },
@@ -158,10 +158,6 @@
   },
   "active": "c1a64cc83d5ff0e1",
   "lastOpenFiles": [
-    "public/images/gargoyle.png",
-    "public/images",
-    "static/images",
-    "public/gargoyle.png",
     "public/fonts/libre-baskerville-latin.woff2",
     "public/fonts/libre-baskerville-latin-ext.woff2",
     "public/fonts/libre-baskerville-italic-latin.woff2",
@@ -170,11 +166,17 @@
     "public/fonts/libre-baskerville-700-latin-ext.woff2",
     "public/fonts/Bitter-VariableFont_wght.woff2",
     "public/fonts/Bitter-SemiBoldItalic.woff2",
+    "public/fonts/Bitter-SemiBold.woff2",
+    "public/fonts/Bitter-Regular.woff2",
+    "public/fonts/Bitter-MediumItalic.woff2",
     "public/assets/favicon-32x32.png",
     "public/assets/favicon-16x16.png",
     "public/assets/apple-touch-icon.png",
+    "public/libgamemodeauto-so-0-from-ld-preload-cannot-be-preloaded/gargoyle.png",
+    "public/images/gargoyle.png",
+    "public/gargoyle.png",
     "public/Pasted image 20240914110924.png",
-    "static/images/gargoyle.png",
+    "content/2024-09-14-libgamemodeauto.so.0-from-ld_preload-cannot-be-preloaded/gargoyle.png",
     "content/2024-08-16-twgok-revisited-(in-form-of-manga).md",
     "static/assets/favicon-16x16.png",
     "static/assets/favicon-32x32.png",
